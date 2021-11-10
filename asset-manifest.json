@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/wonder-diana.github.io/static/css/main.93025120.chunk.css",
+    "main.js": "/wonder-diana.github.io/static/js/main.a71a8e3f.chunk.js",
+    "main.js.map": "/wonder-diana.github.io/static/js/main.a71a8e3f.chunk.js.map",
+    "runtime-main.js": "/wonder-diana.github.io/static/js/runtime-main.73470f5f.js",
+    "runtime-main.js.map": "/wonder-diana.github.io/static/js/runtime-main.73470f5f.js.map",
+    "static/js/2.b72928a8.chunk.js": "/wonder-diana.github.io/static/js/2.b72928a8.chunk.js",
+    "static/js/2.b72928a8.chunk.js.map": "/wonder-diana.github.io/static/js/2.b72928a8.chunk.js.map",
+    "index.html": "/wonder-diana.github.io/index.html",
+    "static/css/main.93025120.chunk.css.map": "/wonder-diana.github.io/static/css/main.93025120.chunk.css.map",
+    "static/js/2.b72928a8.chunk.js.LICENSE.txt": "/wonder-diana.github.io/static/js/2.b72928a8.chunk.js.LICENSE.txt",
+    "static/media/black-autumn.97e89a9d.png": "/wonder-diana.github.io/static/media/black-autumn.97e89a9d.png",
+    "static/media/black-spring.589f44ac.png": "/wonder-diana.github.io/static/media/black-spring.589f44ac.png",
+    "static/media/black-summer.4bcee85d.png": "/wonder-diana.github.io/static/media/black-summer.4bcee85d.png",
+    "static/media/black-winter.9d45b75e.png": "/wonder-diana.github.io/static/media/black-winter.9d45b75e.png",
+    "static/media/blue-autumn.52d92c75.png": "/wonder-diana.github.io/static/media/blue-autumn.52d92c75.png",
+    "static/media/blue-spring.bb670e19.png": "/wonder-diana.github.io/static/media/blue-spring.bb670e19.png",
+    "static/media/blue-summer.4865c455.png": "/wonder-diana.github.io/static/media/blue-summer.4865c455.png",
+    "static/media/blue-winter.349399e1.png": "/wonder-diana.github.io/static/media/blue-winter.349399e1.png",
+    "static/media/diana.53707637.png": "/wonder-diana.github.io/static/media/diana.53707637.png",
+    "static/media/left.8e3427ea.png": "/wonder-diana.github.io/static/media/left.8e3427ea.png",
+    "static/media/right.81b7cbd6.png": "/wonder-diana.github.io/static/media/right.81b7cbd6.png",
+    "static/media/sword.af422191.png": "/wonder-diana.github.io/static/media/sword.af422191.png",
+    "static/media/wonder-autumn.e78746e6.png": "/wonder-diana.github.io/static/media/wonder-autumn.e78746e6.png",
+    "static/media/wonder-spring.f805d0f3.png": "/wonder-diana.github.io/static/media/wonder-spring.f805d0f3.png",
+    "static/media/wonder-summer.8dd92baa.png": "/wonder-diana.github.io/static/media/wonder-summer.8dd92baa.png",
+    "static/media/wonder-winter.0b077d6c.png": "/wonder-diana.github.io/static/media/wonder-winter.0b077d6c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73470f5f.js",
+    "static/js/2.b72928a8.chunk.js",
+    "static/css/main.93025120.chunk.css",
+    "static/js/main.a71a8e3f.chunk.js"
+  ]
+}
